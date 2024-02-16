@@ -1,0 +1,68 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/questasim64_10.7c/examples
+T_opt
+!s110 1707812776
+V<z`hi_ik4>zNaGE@Xh_NL3
+04 11 4 work lab_2_t2_tb fast 0
+=1-d481d7d611d5-65cb27a7-3cd-60c
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+vlab2_t2
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z3 !s110 1707816678
+!i10b 1
+!s100 e662@c^lz`9DE=M5^b^h91
+IW;0fEWZ0[hHSLTO>=I4Bl3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 lab2_t2_sv_unit
+S1
+Z5 dD:/DSD_lab_2/LAB_2_t2
+w1707310591
+8D:/DSD_lab_2/LAB_2_t2/lab2_t2.sv
+FD:/DSD_lab_2/LAB_2_t2/lab2_t2.sv
+L0 1
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1707816678.000000
+!s107 D:/DSD_lab_2/LAB_2_t2/lab2_t2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/DSD_lab_2/LAB_2_t2/lab2_t2.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vlab_2_t2_tb
+R2
+R3
+!i10b 1
+!s100 [PeLYW;0Q<M??PP85zBYX0
+Iznf6Pmi:H]XSC9SIM8NhI0
+R4
+!s105 lab_2_t2_tb_sv_unit
+S1
+R5
+w1707814440
+8D:/DSD_lab_2/LAB_2_t2/lab_2_t2_tb.sv
+FD:/DSD_lab_2/LAB_2_t2/lab_2_t2_tb.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/DSD_lab_2/LAB_2_t2/lab_2_t2_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/DSD_lab_2/LAB_2_t2/lab_2_t2_tb.sv|
+!i113 0
+R8
+R1

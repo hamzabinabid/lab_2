@@ -1,0 +1,68 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/DSD_lab_2/lab_ex
+T_opt
+!s110 1707816143
+VaKjAE5df]h:mcnEPEMg[I2
+04 8 4 work lab_ex_1 fast 0
+=1-d481d7d611d5-65cb34cf-a-3b20
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+vlab_ex_1
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z3 !s110 1707816422
+!i10b 1
+!s100 Ee??zzD:mg_P:GS47VzH_0
+IhlFDU_YIoLG`E@6T:IUbR3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 lab_ex_1_sv_unit
+S1
+R0
+w1707813852
+8D:/DSD_lab_2/lab_ex/lab_ex_1.sv
+FD:/DSD_lab_2/lab_ex/lab_ex_1.sv
+L0 1
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1707816421.000000
+!s107 D:/DSD_lab_2/lab_ex/lab_ex_1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/DSD_lab_2/lab_ex/lab_ex_1.sv|
+!i113 0
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vlab_ex_tb
+R2
+R3
+!i10b 1
+!s100 FkZPS=@^GAUURIE]idZ0N1
+IWGmg29O1dcV3aIdE2QJbY0
+R4
+!s105 lab_ex_tb_sv_unit
+S1
+R0
+w1707813648
+8D:\DSD_lab_2\lab_ex\lab_ex_tb.sv
+FD:\DSD_lab_2\lab_ex\lab_ex_tb.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1707816422.000000
+!s107 D:\DSD_lab_2\lab_ex\lab_ex_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:\DSD_lab_2\lab_ex\lab_ex_tb.sv|
+!i113 0
+R6
+R1

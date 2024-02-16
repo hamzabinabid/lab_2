@@ -1,0 +1,15 @@
+D:/DSD_lab_2/LAB_2_t2/lab_2_t2_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/DSD_lab_2/LAB_2_t2/lab_2_t2_tb.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module lab_2_t2_tb
+
+Top level modules:
+	lab_2_t2_tb
+
+} {} {}} D:/DSD_lab_2/LAB_2_t2/lab2_t2.sv {1 {vlog -work work -vopt -sv -stats=none D:/DSD_lab_2/LAB_2_t2/lab2_t2.sv
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module lab2_t2
+
+Top level modules:
+	lab2_t2
+
+} {} {}}
